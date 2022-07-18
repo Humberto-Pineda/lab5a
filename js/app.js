@@ -53,6 +53,10 @@ IMPORTANT DETAIL: You may not use the arithmetic operators + and * in this funct
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumAndMultiply() function and see if the test passes.*/
 
 // Write your code here
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7d47a48fbd4fddcd0f5f752087d8984cf1266134
 function sumAndMultiply(a, b, c) { //eslint-disable-line
   let sum1 = sum(a, b)[0];
   let sum2 = sum(sum1, c)[0];
@@ -83,7 +87,7 @@ Test this function by hand in the console to get it working, and when you think 
 let testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(sumArr) { //eslint-disable-line
-
+  let sum = 
 }
 
 // Here is the test for sumArray(); uncomment it to run it
